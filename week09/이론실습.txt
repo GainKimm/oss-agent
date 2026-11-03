@@ -1,0 +1,13 @@
+<이론>
+1. 수락/요청한 일
+2. 거절/ 요청한 일 아님
+3. 거절/ 되돌리기 어려움
+4. 거절/ 작업 폴더 밖
+5. 수락/ 요청한 일
+6. 다르게 지시/ 되돌리기 어려움
+
+Read C:\osproject\oss-week9\week09-sample\average_pandas.py
+Read C:\osproject\oss-week9\week09-sample\average_plain.py
+Read C:\osproject\oss-week9\week09-sample\check.py
+Read C:\osproject\oss-week9\week09-sample\scores.csv
+4, 4

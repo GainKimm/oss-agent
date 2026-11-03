@@ -1,18 +1,3 @@
-<이론>
-1. 수락/요청한 일
-2. 거절/ 요청한 일 아님
-3. 거절/ 되돌리기 어려움
-4. 거절/ 작업 폴더 밖
-5. 수락/ 요청한 일
-6. 다르게 지시/ 되돌리기 어려움
-
-Read C:\osproject\oss-week9\week09-sample\average_pandas.py
-Read C:\osproject\oss-week9\week09-sample\average_plain.py
-Read C:\osproject\oss-week9\week09-sample\check.py
-Read C:\osproject\oss-week9\week09-sample\scores.csv
-4, 4
-
-<실습>
 1. week09 폴더의 tools.py를 읽고, 각 함수가 무엇을 받고 무엇을 돌려주는지 설명해줘. 파일은 고치지마.
 (1) get_movie_name(date) — tools.py:7-22
 받는 것
