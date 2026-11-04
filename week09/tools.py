@@ -22,5 +22,5 @@ def get_movie_name(date):
     return movies[0]["movieNm"]
 
 
-def get_boxoffice_rank1(date):
+def get_rank1(date):
     return get_movie_name(date)
